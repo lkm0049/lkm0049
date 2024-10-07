@@ -39,7 +39,7 @@
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkm0049&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkm0049&layout=compact&theme=onedark&hide=html,makefile)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
