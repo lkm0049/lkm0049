@@ -16,7 +16,7 @@
   - 👷 Interning as a Software Optimization Intern, where I focus on improving web performance and implementing security protocols.
   - 👨‍🏫 Teaching Assistant for both Digital Forensics and Graduate-level Digital Forensics.
   - 🌱 Currently expanding my cybersecurity skills in my free time by exploring TryHackMe and HackTheBox, focusing on hands-on and practical learning.
-  - 📝 Currently studying for the CompTIA Security+ certification to expand my cybersecurity knowledge.
+  - 📝 Studying for the CompTIA Security+ certification to expand my cybersecurity knowledge.
   - 📫 How to reach me: Feel free to connect with me on LinkedIn (link above).
 
 ---
