@@ -13,9 +13,8 @@
 
 #### 👨‍💻 About Me: 
   - 📖 Pursuing a Master of Science in Cybersecurity Engineering at Auburn University, with expected completion in May 2026.
-  - 👷 Interning as a Software Optimization Intern, where I focus on improving web performance and implementing security protocols.
   - 👨‍🏫 Teaching Assistant for both Digital Forensics and Graduate-level Digital Forensics.
-  - 🔎 Participating in Undergraduate Research. Focus: Steganography and ML/DL.
+  - 🔎 Current research focus: Steganography and ML/DL.
   - 🌱 Currently expanding my cybersecurity skills in my free time by exploring TryHackMe and HackTheBox, focusing on hands-on and practical learning.
   - 📝 Studying for the CompTIA Security+ certification to expand my cybersecurity knowledge.
   - 📫 How to reach me: Feel free to connect with me on LinkedIn (link above).
