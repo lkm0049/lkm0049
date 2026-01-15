@@ -36,13 +36,7 @@
 </div>
 
 ---
-### 🔥 My Stats:
 
-<div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkm0049&layout=compact&theme=onedark&hide=html,makefile,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 
 
